@@ -104,47 +104,24 @@
   &nbsp; About Me
 </h2>
 
-<!-- About Me Card — HTML/CSS styled, GitHub-safe -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="720">
-  <tr>
-    <td align="center" style="background:#0D1117; border:1px solid #30363d; border-radius:12px; padding:0;">
+```yaml
+# 👨‍💻 kabil.config.yaml
 
-<!-- Title Bar -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" style="background:#161b22; border-bottom:1px solid #30363d; border-radius:12px 12px 0 0; padding:10px 0;">
-      <b>👨‍💻 &nbsp; kabil.config.yaml</b>
-    </td>
-  </tr>
-</table>
+name        : Kabil K
+location    : Coimbatore, Tamil Nadu, India 🇮🇳
+role        : Full Stack Developer
+email       : kabilk2023@gmail.com
+github      : github.com/Kabil-8
 
-<!-- Body -->
-<table width="100%" border="0" cellpadding="16" cellspacing="0">
-  <tr>
-    <td style="font-family:monospace; font-size:14px; color:#c9d1d9; line-height:1.8;">
+currently:
+  - 🔭  Building  → Finance Dashboard + Hospital Management System
+  - 🌱  Learning  → Go, Kubernetes, System Design
+  - 👯  Open to   → Collaborations, Open Source, Freelance
+  - ⚡  Fun fact  → I debug with console.log and I'm proud of it
 
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/name-Kabil%20K-7F77DD?style=flat-square&labelColor=161b22&color=7F77DD" /><br/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/location-Coimbatore%2C%20Tamil%20Nadu%2C%20India%20🇮🇳-FF6B6B?style=flat-square&labelColor=161b22&color=FF6B6B" /><br/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/role-Full%20Stack%20Developer-A9FEF7?style=flat-square&labelColor=161b22&color=A9FEF7" /><br/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/email-kabilk2023%40gmail.com-EA4335?style=flat-square&labelColor=161b22&color=EA4335&logo=gmail&logoColor=EA4335" /><br/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/github-Kabil--8-ffffff?style=flat-square&labelColor=161b22&color=ffffff&logo=github&logoColor=white" /><br/>
-<br/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/currently-:-58A6FF?style=flat-square&labelColor=161b22&color=58A6FF" /><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/🔭%20Building-Finance%20Dashboard%20%2B%20Hospital%20Mgmt%20System-F85D7F?style=flat-square&labelColor=161b22&color=F85D7F" /><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/🌱%20Learning-Go%20%7C%20Kubernetes%20%7C%20System%20Design-39D353?style=flat-square&labelColor=161b22&color=39D353" /><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/👯%20Open%20to-Collaborations%20%7C%20Open%20Source%20%7C%20Freelance-FFD700?style=flat-square&labelColor=161b22&color=FFD700" /><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/⚡%20Fun%20fact-I%20debug%20with%20console.log%20%26%20I'm%20proud%20of%20it-A9FEF7?style=flat-square&labelColor=161b22&color=A9FEF7" /><br/>
-<br/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/passions-Clean%20Code%20%7C%20Scalable%20APIs%20%7C%20UI%2FUX%20%7C%20DevOps-7F77DD?style=flat-square&labelColor=161b22&color=7F77DD" /><br/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/coffee%20☕-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓%209999%20cups%2Fyear-6F4E37?style=flat-square&labelColor=161b22&color=6F4E37" />
-
-    </td>
-  </tr>
-</table>
-
-    </td>
-  </tr>
-</table>
+passions    : [ "Clean Code", "Scalable APIs", "UI/UX", "DevOps" ]
+coffee      : ████████████████░░░░  9999 cups/year ☕
+```
 
 </div>
 
