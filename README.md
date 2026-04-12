@@ -353,49 +353,65 @@
 
 <br/>
 
-<!-- Floating Skill Progress Bars -->
+<!-- Floating Skill Progress Bars — using shields.io (GitHub-safe) -->
 <h3>📊 Proficiency Levels</h3>
 
-<table align="center" border="0" width="70%">
+<table align="center" border="0">
   <tr>
-    <td align="right"><b>JavaScript</b></td>
-    <td><img src="https://progress-bar.dev/95/?title=&width=280&color=F7DF1E&bg_color=0D1117" /></td>
-    <td><code>95%</code></td>
+    <td align="right" width="130"><b>JavaScript</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░-95%25-F7DF1E?style=flat-square&labelColor=0D1117&color=F7DF1E" />
+    </td>
+    <td><img src="https://img.shields.io/badge/-95%25-F7DF1E?style=flat-square&labelColor=0D1117" /></td>
   </tr>
   <tr>
     <td align="right"><b>TypeScript</b></td>
-    <td><img src="https://progress-bar.dev/90/?title=&width=280&color=3178C6&bg_color=0D1117" /></td>
-    <td><code>90%</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░-90%25-3178C6?style=flat-square&labelColor=0D1117&color=3178C6" />
+    </td>
+    <td><img src="https://img.shields.io/badge/-90%25-3178C6?style=flat-square&labelColor=0D1117" /></td>
   </tr>
   <tr>
     <td align="right"><b>React / Next.js</b></td>
-    <td><img src="https://progress-bar.dev/88/?title=&width=280&color=61DAFB&bg_color=0D1117" /></td>
-    <td><code>88%</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░-88%25-61DAFB?style=flat-square&labelColor=0D1117&color=61DAFB" />
+    </td>
+    <td><img src="https://img.shields.io/badge/-88%25-61DAFB?style=flat-square&labelColor=0D1117" /></td>
   </tr>
   <tr>
     <td align="right"><b>Node.js</b></td>
-    <td><img src="https://progress-bar.dev/85/?title=&width=280&color=339933&bg_color=0D1117" /></td>
-    <td><code>85%</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░-85%25-339933?style=flat-square&labelColor=0D1117&color=339933" />
+    </td>
+    <td><img src="https://img.shields.io/badge/-85%25-339933?style=flat-square&labelColor=0D1117" /></td>
   </tr>
   <tr>
     <td align="right"><b>Java</b></td>
-    <td><img src="https://progress-bar.dev/80/?title=&width=280&color=F85D7F&bg_color=0D1117" /></td>
-    <td><code>80%</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░-80%25-F85D7F?style=flat-square&labelColor=0D1117&color=F85D7F" />
+    </td>
+    <td><img src="https://img.shields.io/badge/-80%25-F85D7F?style=flat-square&labelColor=0D1117" /></td>
   </tr>
   <tr>
     <td align="right"><b>Python</b></td>
-    <td><img src="https://progress-bar.dev/75/?title=&width=280&color=3776AB&bg_color=0D1117" /></td>
-    <td><code>75%</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░-75%25-3776AB?style=flat-square&labelColor=0D1117&color=3776AB" />
+    </td>
+    <td><img src="https://img.shields.io/badge/-75%25-3776AB?style=flat-square&labelColor=0D1117" /></td>
   </tr>
   <tr>
     <td align="right"><b>Docker / DevOps</b></td>
-    <td><img src="https://progress-bar.dev/72/?title=&width=280&color=2CA5E0&bg_color=0D1117" /></td>
-    <td><code>72%</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░-72%25-2CA5E0?style=flat-square&labelColor=0D1117&color=2CA5E0" />
+    </td>
+    <td><img src="https://img.shields.io/badge/-72%25-2CA5E0?style=flat-square&labelColor=0D1117" /></td>
   </tr>
   <tr>
     <td align="right"><b>Go</b></td>
-    <td><img src="https://progress-bar.dev/55/?title=&width=280&color=00ADD8&bg_color=0D1117" /></td>
-    <td><code>55% 📈</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░-55%25-00ADD8?style=flat-square&labelColor=0D1117&color=00ADD8" />
+    </td>
+    <td><img src="https://img.shields.io/badge/-55%25%20📈-00ADD8?style=flat-square&labelColor=0D1117" /></td>
   </tr>
 </table>
 
