@@ -79,36 +79,87 @@
 
 <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px" />&nbsp; About Me</h2>
 
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="92%">
+<tr>
+<td width="55%" valign="top">
+
 ```yaml
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#  👨‍💻  kabil.config.yaml
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 👨‍💻  kabil.config.yaml
+# ──────────────────────────────────
 
 identity:
-  name      : "Kabil K"
-  role      : "Full Stack Developer"
-  location  : "Coimbatore, Tamil Nadu, India 🇮🇳"
-  email     : "kabilk2023@gmail.com"
-  github    : "github.com/Kabil-8"
+  name     : "Kabil K"
+  role     : "Full Stack Developer"
+  location : "Coimbatore, India 🇮🇳"
+  email    : "kabilk2023@gmail.com"
+  github   : "github.com/Kabil-8"
 
 currently:
-  building  : ["Finance Dashboard", "Hospital Management System v2"]
-  learning  : ["Go 🐹", "Kubernetes ☸️", "System Design 🏗️"]
-  open_to   : ["Collaborations", "Open Source", "Freelance", "Full-time Roles"]
-
-core_values:
-  - "🧼 Clean Code is Non-Negotiable"
-  - "⚡ Performance Matters at Every Layer"
-  - "🌍 Open Source is the Future"
-  - "📐 Architecture First, Code Second"
-
-fun_facts:
-  - "I debug with console.log() and I'm proud of it 🐛"
-  - "Dark mode or no mode. Period. 🌙"
-  - "My git history is a novel no one asked for 📖"
-
-coffee     : "████████████████████  ∞ cups/year ☕"
+  🔭 building : [
+    "Finance Dashboard",
+    "Hospital Management System v2"
+  ]
+  🌱 learning : [
+    "Go", "Kubernetes", "System Design"
+  ]
+  🤝 open_to  : [
+    "Collaborations", "Freelance",
+    "Open Source", "Full-time Roles"
+  ]
 ```
+
+</td>
+<td width="2%"></td>
+<td width="43%" valign="top">
+
+```yaml
+# ⚡  core_values:
+# ──────────────────────────────────
+
+  🧼  Clean Code is Non-Negotiable
+  ⚡  Performance at Every Layer
+  🌍  Open Source is the Future
+  📐  Architecture First, Code Second
+
+# 😄  fun_facts:
+# ──────────────────────────────────
+
+  🐛  I debug with console.log()
+      and I'm proud of it
+  🌙  Dark mode or no mode. Period.
+  📖  My git history is a novel
+      no one asked for
+
+# ☕  fuel:
+  coffee : ████████████  ∞ /year
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table align="center" border="0" cellspacing="8" cellpadding="0" width="92%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🔭%20Building-Finance%20Dashboard-7F77DD?style=flat-square&labelColor=0D1117&color=7F77DD" /><br/>
+      <img src="https://img.shields.io/badge/+-Hospital%20Mgmt%20v2-7F77DD?style=flat-square&labelColor=0D1117&color=7F77DD" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🌱%20Learning-Go%20%7C%20K8s-00ADD8?style=flat-square&labelColor=0D1117&color=00ADD8" /><br/>
+      <img src="https://img.shields.io/badge/+-System%20Design-00ADD8?style=flat-square&labelColor=0D1117&color=00ADD8" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🤝%20Open%20To-Collabs-00FF88?style=flat-square&labelColor=0D1117&color=00FF88" /><br/>
+      <img src="https://img.shields.io/badge/+-Freelance%20%7C%20OS-00FF88?style=flat-square&labelColor=0D1117&color=00FF88" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/📍%20Based%20In-Coimbatore-FF6B6B?style=flat-square&labelColor=0D1117&color=FF6B6B" /><br/>
+      <img src="https://img.shields.io/badge/IST-GMT%2B5%3A30-FF6B6B?style=flat-square&labelColor=0D1117&color=FF6B6B" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -236,69 +287,171 @@ coffee     : "████████████████████  ∞ 
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26px" />&nbsp; Tech Stack</h2>
 
-</div>
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--   FLOATING 4-QUADRANT TECH CARD GRID                      -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<table align="center" border="0" cellspacing="12" cellpadding="0" width="98%">
+<tr>
 
-### 🎨 Frontend Engineering
+<!-- ┌─────────────────────────────────┐ -->
+<!-- │       🎨 FRONTEND CARD          │ -->
+<!-- └─────────────────────────────────┘ -->
+<td valign="top" width="50%" align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117" />
-</p>
+<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-141321?style=flat-square&labelColor=141321&color=7F77DD" width="95%" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,sass,bootstrap,html,css&perline=10&theme=dark" />
+**`🎨  Frontend Engineering`**
 
-### ⚙️ Backend Engineering
+<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-141321?style=flat-square&labelColor=141321&color=7F77DD" width="95%" />
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/REST%20API-005C97?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117" />
-</p>
+<br/>
 
+<table align="center" border="0" cellspacing="4" cellpadding="2">
+  <tr>
+    <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" /></td>
+    <td><img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black&labelColor=0D1117" /></td>
+    <td><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=0D1117" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" /></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" /></td>
+    <td><img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D1117" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,sass,bootstrap&perline=8&theme=dark" />
+
+</td>
+
+<!-- ┌─────────────────────────────────┐ -->
+<!-- │       ⚙️  BACKEND CARD          │ -->
+<!-- └─────────────────────────────────┘ -->
+<td valign="top" width="50%" align="center">
+
+<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-141321?style=flat-square&labelColor=141321&color=F85D7F" width="95%" />
+
+**`⚙️  Backend Engineering`**
+
+<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-141321?style=flat-square&labelColor=141321&color=F85D7F" width="95%" />
+
+<br/>
+
+<table align="center" border="0" cellspacing="4" cellpadding="2">
+  <tr>
+    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117" /></td>
+    <td><img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black&labelColor=0D1117" /></td>
+    <td><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=0D1117" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" /></td>
+    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117" /></td>
+    <td><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0D1117" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,java,go,graphql,fastapi&perline=8&theme=dark" />
 
-### 🗄️ Database & DevOps
+</td>
+</tr>
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117" />
-</p>
+<tr><td colspan="2" height="8"></td></tr>
 
+<tr>
+
+<!-- ┌─────────────────────────────────┐ -->
+<!-- │    🗄️  DATABASE & DEVOPS CARD   │ -->
+<!-- └─────────────────────────────────┘ -->
+<td valign="top" width="50%" align="center">
+
+<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-141321?style=flat-square&labelColor=141321&color=A9FEF7" width="95%" />
+
+**`🗄️  Database & DevOps`**
+
+<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-141321?style=flat-square&labelColor=141321&color=A9FEF7" width="95%" />
+
+<br/>
+
+<table align="center" border="0" cellspacing="4" cellpadding="2">
+  <tr>
+    <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117" /></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" /></td>
+    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117" /></td>
+    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" /></td>
+    <td><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0D1117" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma,docker,kubernetes,aws&perline=8&theme=dark" />
 
-### 🛠️ Tools & Workflow
+</td>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0D1117" />
-</p>
+<!-- ┌─────────────────────────────────┐ -->
+<!-- │       🛠️  TOOLS CARD            │ -->
+<!-- └─────────────────────────────────┘ -->
+<td valign="top" width="50%" align="center">
 
+<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-141321?style=flat-square&labelColor=141321&color=FFD700" width="95%" />
+
+**`🛠️  Tools & Workflow`**
+
+<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-141321?style=flat-square&labelColor=141321&color=FFD700" width="95%" />
+
+<br/>
+
+<table align="center" border="0" cellspacing="4" cellpadding="2">
+  <tr>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" /></td>
+    <td><img src="https://img.shields.io/badge/GH%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0D1117" /></td>
+    <td><img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117" /></td>
+    <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117" /></td>
+    <td><img src="https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black&labelColor=0D1117" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 <img src="https://skillicons.dev/icons?i=git,githubactions,vscode,postman,figma,vercel,linux,nginx&perline=8&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
