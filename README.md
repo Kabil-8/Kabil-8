@@ -230,69 +230,69 @@
   <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="24px" />&nbsp; 🚀 Featured Projects</h2>
 </div>
 
-### 📊 Finance Dashboard Backend
+### ☕ JavaLearn Learning Platform
 
-> 🚀 Robust RESTful API for financial analytics, budgeting, and real-time data aggregation. Featuring transaction tracking, multi-currency support, portfolio analysis, and automated PDF reporting with role-based access control.
+> 📚 Comprehensive interactive learning platform tailored for Java enthusiasts. Features structured roadmaps, coding exercises, real-time code evaluation, and performance tracking to master backend development.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117" />
   <br/>
-  <img src="https://img.shields.io/github/stars/Kabil-8/Finance-Dashboard-Backend?style=social" />
-  <img src="https://img.shields.io/github/forks/Kabil-8/Finance-Dashboard-Backend?style=social" />
-  <img src="https://img.shields.io/github/issues/Kabil-8/Finance-Dashboard-Backend?style=flat-square&color=7F77DD&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/last-commit/Kabil-8/Finance-Dashboard-Backend?style=flat-square&color=A9FEF7&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/Kabil-8/JavaLearn-Java-Learning-Platform?style=social" />
+  <img src="https://img.shields.io/github/forks/Kabil-8/JavaLearn-Java-Learning-Platform?style=social" />
+  <img src="https://img.shields.io/github/issues/Kabil-8/JavaLearn-Java-Learning-Platform?style=flat-square&color=7F77DD&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/last-commit/Kabil-8/JavaLearn-Java-Learning-Platform?style=flat-square&color=A9FEF7&labelColor=0D1117" />
   <br/>
-  <a href="https://github.com/Kabil-8/Finance-Dashboard-Backend"><img src="https://img.shields.io/badge/View%20Project%20%E2%86%92-7F77DD?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://github.com/Kabil-8/JavaLearn-Java-Learning-Platform"><img src="https://img.shields.io/badge/View%20Project%20%E2%86%92-7F77DD?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
   <img src="https://img.shields.io/badge/%F0%9F%94%A5%20Active%20Development-00FF88?style=flat-square&labelColor=0D1117&color=00FF88" />
 </div>
 
 ---
 
-### 🏥 Hospital Management System
+### 🤖 LivePresence AI
 
-> 💊 Full-stack healthcare platform with patient registration, appointment scheduling, and inventory management. Real-time bed tracking, automated prescriptions, department analytics, and granular RBAC.
+> 👁️ Cutting-edge AI-powered virtual presence detection system. Built with modern web technologies to handle real-time video streaming, instantaneous emotion tracking, and robust analytics visualization.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" />
   <br/>
-  <img src="https://img.shields.io/github/stars/Kabil-8/Hospital-Management-System?style=social" />
-  <img src="https://img.shields.io/github/forks/Kabil-8/Hospital-Management-System?style=social" />
-  <img src="https://img.shields.io/github/issues/Kabil-8/Hospital-Management-System?style=flat-square&color=F85D7F&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/last-commit/Kabil-8/Hospital-Management-System?style=flat-square&color=A9FEF7&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/Kabil-8/LivePrecense-AI---Frontend?style=social" />
+  <img src="https://img.shields.io/github/forks/Kabil-8/LivePrecense-AI---Frontend?style=social" />
+  <img src="https://img.shields.io/github/issues/Kabil-8/LivePrecense-AI---Frontend?style=flat-square&color=F85D7F&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/last-commit/Kabil-8/LivePrecense-AI---Frontend?style=flat-square&color=A9FEF7&labelColor=0D1117" />
   <br/>
-  <a href="https://github.com/Kabil-8/Hospital-Management-System"><img src="https://img.shields.io/badge/View%20Project%20%E2%86%92-F85D7F?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://github.com/Kabil-8/LivePrecense-AI---Frontend"><img src="https://img.shields.io/badge/View%20Project%20%E2%86%92-F85D7F?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
   <img src="https://img.shields.io/badge/%E2%AD%90%20Featured%20Project-FFD700?style=flat-square&labelColor=0D1117&color=FFD700" />
 </div>
 
 ---
 
-### ✍️ The Corporate Blog
+### 📄 HireFlow Resume Shortlisting
 
-> 📝 SEO-optimized blogging platform with Markdown/MDX support and smart category filtering. Features dynamic routing, Next.js image optimization, integrated analytics, dark mode, and lightning-fast static generation.
+> ⚡ Automated recruitment platform leveraging intelligent parsing to shortlist candidates. Features drag-and-drop resume uploading, dynamic skill matching algorithms, and a comprehensive applicant dashboard.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Markdown-1B1F24?style=flat-square&logo=mdx&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" />
   <br/>
-  <img src="https://img.shields.io/github/stars/Kabil-8/The-Corporate-Blog?style=social" />
-  <img src="https://img.shields.io/github/forks/Kabil-8/The-Corporate-Blog?style=social" />
-  <img src="https://img.shields.io/github/issues/Kabil-8/The-Corporate-Blog?style=flat-square&color=A9FEF7&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/last-commit/Kabil-8/The-Corporate-Blog?style=flat-square&color=A9FEF7&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/Kabil-8/HireFlow-Resume-ShortListing-Platform?style=social" />
+  <img src="https://img.shields.io/github/forks/Kabil-8/HireFlow-Resume-ShortListing-Platform?style=social" />
+  <img src="https://img.shields.io/github/issues/Kabil-8/HireFlow-Resume-ShortListing-Platform?style=flat-square&color=A9FEF7&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/last-commit/Kabil-8/HireFlow-Resume-ShortListing-Platform?style=flat-square&color=A9FEF7&labelColor=0D1117" />
   <br/>
-  <a href="https://github.com/Kabil-8/The-Corporate-Blog"><img src="https://img.shields.io/badge/View%20Project%20%E2%86%92-A9FEF7?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" /></a>
+  <a href="https://github.com/Kabil-8/HireFlow-Resume-ShortListing-Platform"><img src="https://img.shields.io/badge/View%20Project%20%E2%86%92-A9FEF7?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" /></a>
   <img src="https://img.shields.io/badge/%F0%9F%93%B1%20Responsive%20%26%20Live-A9FEF7?style=flat-square&labelColor=0D1117&color=A9FEF7" />
 </div>
 
