@@ -106,16 +106,17 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117" />
   </td></tr></table>
 
-  <!-- Tools Card -->
-  <!-- Tools Card -->
+<!-- Tools Card -->
   <table style="border-collapse:separate; border-spacing:0; background: linear-gradient(180deg, rgba(255,215,0,0.15) 0%, rgba(13,17,23,1) 100%); border-radius:24px; border:2px solid #FFD700; box-shadow:0 12px 36px rgba(255,215,0,0.25); width:100%; max-width:750px; margin-bottom:10px;">
   <tr><td align="center" style="padding:32px 20px;">
     <h3 style="margin:0 0 6px; color:#FFD700; font-size:22px;">🛠️ Tools & Workflow</h3>
     <p style="margin:0 0 20px; font-size:14px; color:#F85D7F;">How I build and ship</p>
     <img src="https://skillicons.dev/icons?i=git,postman&perline=8&theme=dark" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/webp/google-antigravity-dark.webp" width="48" height="48" alt="Google Antigravity" />
     <br/><br/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=flat-square&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Antigravity-1A73E8?style=flat-square&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0D1117" />
   </td></tr></table>
 
